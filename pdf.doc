@@ -1,0 +1,10 @@
+birinchi uchta const ochvolamz birliklar onliklar yuzliklar uchun har bitdasiga alohidadadn o‘zgaruvchi bu quti deb olsak ham boladi 
+va switch ochi cjiqamz bundan oldin foydalanuvchi son kiritishi uchun prompt yoziladi yana const ochib undan keyin switch ochiladi 
+case larga onliklarni yuzliklarni birliklarni saqlab chiqamiz 
+
+masalan switch (yuzlikar){
+case 1: yuzliklar}
+
+shunday qilib 
+
+
