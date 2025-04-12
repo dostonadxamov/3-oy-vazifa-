@@ -94,16 +94,16 @@
 // 7 masala
 // ==============
 
-const a = Math.floor(Math.random() * 10);
-let b;
-do {
-    b = +prompt("son kiriting");
-    if (b !== a) {
-        console.log("xato, yana kiritng");
-    }
-}while(a !== b);
+// const a = Math.floor(Math.random() * 10);
+// let b;
+// do {
+//     b = +prompt("son kiriting");
+//     if (b !== a) {
+//         console.log("xato, yana kiritng");
+//     }
+// }while(a !== b);
     
-console.log("siz togri topdingiz", a);
+// console.log("siz togri topdingiz", a);
 
 
 
