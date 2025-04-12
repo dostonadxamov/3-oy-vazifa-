@@ -94,20 +94,17 @@
 // 7 masala
 // ==============
 
-// const a = Math.round(Math.random) * 10;
-// let counter = 0;
-// do {
-//     const b = prompt("son kiriting");
-//     counter = counter + 1;
-//     if (b == 5) {
-//        console.log(`togri topdingiz ${b}`);
-//        break;
-//     }
-//     else{
-//         console.log("xato, yana kiritng");
-//     }
-// }while(counter <=6);
+const a = Math.floor(Math.random() * 10);
+let b;
+do {
+    b = +prompt("son kiriting");
+    if (b !== a) {
+        console.log("xato, yana kiritng");
+    }
+}while(a !== b);
     
+console.log("siz togri topdingiz", a);
+
 
 
 // } while (counter <= 5);
@@ -159,3 +156,5 @@
 // if (son == "" || son == 0) {
 //     console.log("iltimos son kiriting");
 // }
+
+
